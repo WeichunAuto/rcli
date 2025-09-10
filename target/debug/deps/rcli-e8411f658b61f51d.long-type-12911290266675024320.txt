@@ -1,0 +1,1 @@
+fn(std::string::String) -> Result<std::string::String, std::string::String> {verify_input_file}
