@@ -1,0 +1,70 @@
+- create_date: 2025-08-31 17:02:31
+  dispatch_site: Tauranga
+  order_number: '6083125970730'
+  recipient_name: Lyn Turner
+  site_code: TRG
+  status: 否
+  value: '83.07'
+- create_date: 2025-08-31 17:42:28
+  dispatch_site: AucklandDS
+  order_number: '6083125996302'
+  recipient_name: Sammy Liu
+  site_code: AKL
+  status: 否
+  value: '62.5'
+- create_date: 2025-08-31 17:39:58
+  dispatch_site: Hamilton
+  order_number: '6083125949498'
+  recipient_name: Robilette Baterna
+  site_code: HMT
+  status: 否
+  value: '35.27'
+- create_date: 2025-08-31 17:14:57
+  dispatch_site: Tauranga
+  order_number: '6083125927903'
+  recipient_name: Jill Clifford
+  site_code: TRG
+  status: 否
+  value: '117.47'
+- create_date: 2025-08-31 16:32:34
+  dispatch_site: AucklandDS
+  order_number: '6083125911771'
+  recipient_name: Marilou Warden
+  site_code: AKL
+  status: 否
+  value: '46.13'
+- create_date: 2025-08-31 17:08:48
+  dispatch_site: AucklandDS
+  order_number: '6083125978560'
+  recipient_name: Amrit Okhan
+  site_code: AKL
+  status: 否
+  value: '46.72'
+- create_date: 2025-08-31 16:43:10
+  dispatch_site: Hamilton
+  order_number: '6083125946629'
+  recipient_name: Beth Lynch
+  site_code: HMT
+  status: 否
+  value: '198.77'
+- create_date: 2025-08-31 17:40:00
+  dispatch_site: AucklandDS
+  order_number: '6083125977554'
+  recipient_name: Prableen Kaur
+  site_code: AKL
+  status: 否
+  value: '39.78'
+- create_date: 2025-08-31 17:10:56
+  dispatch_site: Tauranga
+  order_number: '6083125918712'
+  recipient_name: Richard Clarke
+  site_code: TRG
+  status: 否
+  value: '151.41'
+- create_date: 2025-08-31 17:02:20
+  dispatch_site: AucklandDS
+  order_number: '6083125949541'
+  recipient_name: Maureen Kemp
+  site_code: AKL
+  status: 否
+  value: '85'
